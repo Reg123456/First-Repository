@@ -1,7 +1,11 @@
 * {
     margin: 0;
+   
+}
+* {
     padding: 0;
 }
+
 
 .progress-bar{
     height: 2px;
