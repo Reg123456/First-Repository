@@ -1,0 +1,19 @@
+#services-id, #service
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#service
+{
+    margin:auto;
+}
+#services-id
+{
+    position: relative;
+}
+
+#services-id h3{
+    position: absolute;
+ 
+}
